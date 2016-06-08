@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:42.167763
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:22
 #+TITLE: 寺塔記
 #+PROPERTY: CBETA_ID T51n2093
 #+PROPERTY: ID KR6r0128
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2093
 #+PROPERTY: VOL 51
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6r0128_T_000-1022b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6r0128_T_001-1022b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2093¶
-
- 寺塔記¶
+No. 2093¶
+寺塔記¶
 ¶
 唐段成式¶
 
@@ -133,7 +132,7 @@ No.2093¶
 古嶮。元和中上欲令移之。慮其摧壞。乃下詔。¶
 擇畫手寫進。¶
 
-佛殿內槽東壁。維摩變。舍利弗角而轉膝。元¶
+佛殿內槽東壁。維摩變。舍利佛角而轉膝。元¶
 和末。俗講僧文淑裝之。筆蹟盡矣。¶
 
 寺之制度鍾樓在東。唯此寺緣李右座林甫
