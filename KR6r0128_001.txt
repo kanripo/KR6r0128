@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 22:20:42.167763
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:22
 #+TITLE: 寺塔記
 #+PROPERTY: CBETA_ID T51n2093
 #+PROPERTY: ID KR6r0128
